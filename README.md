@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 PROJECT-1 **AI_Doctor**
-
 - 🌱 I’m currently learning **FULL-STACK + AI**
+
+- 🔭 PROJECT-1 **AI_Doctor**
 
 - 👯 PROJECT-2 **STOCKLY**
 
