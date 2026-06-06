@@ -19,11 +19,10 @@
 
 ## `> whoami`
 
-Third year Automation & Robotics student who took a hard left turn into AI — and never looked back.
+Third year Automation & Robotics student.
 
-I build systems that **see**, **think**, and **speak** — real-time traffic intelligence, medical assistants, legal AI, accessibility tools. Not demos. Not tutorials. Things that solve problems.
+I build systems that **see**, **think**, and **speak** —Things that solve problems.
 
-Nine projects in. Zero signs of stopping.
 
 ---
 
