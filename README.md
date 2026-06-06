@@ -1,48 +1,173 @@
-<h1 align="center">Hi 👋, I'm mewbemonk </h1>
-<h3 align="center">A passionate Full-Stack (MERN) & AI Developer from India</h3>
+<div align="center">
 
-<img align="right" alt="Coding" width=400 src="https://camo.githubusercontent.com/88adc7c88c9d3dba7479020846ed35d13410e3707c7f149e1c6140cc6beaef9a/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
+```
+█▀▄▀█ █▀▀ █ █ █▄▄ █▀▀ █▀▄▀█ █▀█ █▄░█ █▄▀
+█░▀░█ ██▄ ▀▄▀ █▄█ ██▄ █░▀░█ █▄█ █░▀█ █░█
+```
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mewbemonk&label=Profile%20views&color=0e75b6&style=flat" alt="mewbemonk" /> </p>
+### *"I give computers eyes, voices, and brains. Then I let them loose on real problems."*
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+**Rishabh Pandey** · Third Year · Automation & Robotics Engineering · Pune 🇮🇳
 
-- 🌱 I’m currently learning **FULL-STACK + AI**
+[![Email](https://img.shields.io/badge/rishabhpandey2k24@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rishabhpandey2k24@gmail.com)
+[![GitHub](https://img.shields.io/badge/@mewbemonk-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mewbemonk)
+![Open To Work](https://img.shields.io/badge/Open%20To%20Work-00C853?style=flat-square)
 
-- 🔭 PROJECT-1 **AI_Doctor**
+</div>
 
-- 👯 PROJECT-2 **STOCKLY**
+---
 
-- 🤝 PROJECT-3 **RECOMMENDATION-SYSTEM**
+## `> whoami`
 
-- 👨‍💻 All of my projects are available at [My-Portfolio](My-Portfolio)
+Third year Automation & Robotics student who took a hard left turn into AI — and never looked back.
 
-- 💬 Ask me about **
-   -MERN Stack (MongoDB, Express, React, Node.js)
-   - Full-Stack Web Application Development
-   - Machine Learning & Deep Learning
-   - Generative AI (LLMs, RAG, Prompt Engineering)
-   - AI-powered Web Applications
-   - REST APIs** 
+I build systems that **see**, **think**, and **speak** — real-time traffic intelligence, medical assistants, legal AI, accessibility tools. Not demos. Not tutorials. Things that solve problems.
 
-- 📫 How to reach me **mewbemonk@gmail.com**
+Nine projects in. Zero signs of stopping.
 
-- 📄 Know about my experiences [RESUME](RESUME)
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/@rishabh_pandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@rishabh_pandey" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@rishabhpandey2k2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@rishabhpandey2k2" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/@mewbemonk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="@mewbemonk" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mewbemonk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mewbemonk" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/@mewbemonk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="@mewbemonk" height="30" width="40" /></a>
-</p>
+## `> tech_stack --list`
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+**AI & Intelligence**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mewbemonk&show_icons=true&locale=en&layout=compact" alt="mewbemonk" /></p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF4B4B?style=flat-square)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-000000?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-6C47FF?style=flat-square)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-FF6B35?style=flat-square)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mewbemonk&show_icons=true&locale=en" alt="mewbemonk" /></p>
+**Computer Vision**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mewbemonk&" alt="mewbemonk" /></p>
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFAA?style=flat-square)
+![EasyOCR](https://img.shields.io/badge/EasyOCR-4A90D9?style=flat-square)
+
+**ML & Deep Learning**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
+**Voice & Speech**
+
+![Whisper](https://img.shields.io/badge/Whisper-412991?style=flat-square)
+![pyttsx3](https://img.shields.io/badge/pyttsx3-2E86AB?style=flat-square)
+
+**Web & Deployment**
+
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+**Core**
+
+![DSA](https://img.shields.io/badge/DSA-FF4757?style=flat-square)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+## `> ls projects/`
+
+### 🚦 AdaptiveFlow — AI Traffic Management System
+> *Computer Vision + Smart Cities*
+
+Real-time traffic monitoring using YOLOv8. Detects vehicles, estimates lane-wise density, dynamically adjusts signal timings, and generates AI-powered police alerts with voice announcements — all from a live camera feed.
+
+`YOLOv8` `OpenCV` `LangChain` `OpenRouter` `pyttsx3` `Python`
+
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github)](https://github.com/mewbemonk)
+
+---
+
+### 👁️ VisionMate AI — Visual Reading Assistant
+> *Accessibility + Computer Vision + Voice AI*
+
+Scan any real-world object — medicines, currency, documents, food packets — and get instant voice description in Hindi/English. Multi-agent OCR correction, context memory, voice Q&A, and web search fallback.
+
+`EasyOCR` `LangChain` `OpenRouter` `Whisper` `pyttsx3` `Streamlit`
+
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github)](https://github.com/mewbemonk/visionmate-ai)
+
+---
+
+### 🏥 AI Doctor — Medical Assistant
+> *Generative AI + Healthcare*
+
+Symptom analysis and preliminary health guidance using LLMs, RAG, and medical knowledge sources. Provides structured reports and actionable recommendations.
+
+`LangChain` `RAG` `OpenRouter` `Streamlit` `Python`
+
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github)](https://github.com/mewbemonk)
+
+---
+
+### ⚖️ AI Courtroom Simulator
+> *Generative AI + Legal Tech*
+
+AI acts as judge, lawyer, and opposing counsel — creating realistic courtroom interactions and legal argument practice. Unique multi-role prompt engineering with LLMs.
+
+`LangChain` `CrewAI` `OpenRouter` `Streamlit`
+
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github)](https://github.com/mewbemonk)
+
+---
+
+### 📈 Stockly — AI Stock Analysis Platform
+> *Finance + ML*
+
+Stock market insights, predictions, and financial analysis using machine learning and AI-powered analytics.
+
+`Python` `ML` `LangChain` `Streamlit`
+
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github)](https://github.com/mewbemonk)
+
+---
+
+### 🌿 CNN Leaf Pest Detection · 🔍 ML Fraud Detector · 🎵 Song Recommender · ✍️ Crew Blog AI
+
+*More projects on my GitHub →*
+
+---
+
+## `> github --stats`
+
+<div align="center">
+
+![Rishabh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mewbemonk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFAA&icon_color=00FFAA&text_color=FFFFFF)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mewbemonk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFAA&text_color=FFFFFF)
+
+</div>
+
+---
+
+## `> current_status`
+
+```python
+rishabh = {
+    "degree"   : "Automation & Robotics Engineering — Year 3",
+    "location" : "Pune, India 🇮🇳",
+    "building"  : "AI systems that solve real problems",
+    "learning"  : "Always",
+    "open_to"  : ["Internships", "AI/ML Roles", "Collaborations", "Freelance"],
+    "contact"  : "rishabhpandey2k24@gmail.com"
+}
+```
+
+---
+
+<div align="center">
+
+*"While others build todo apps, I'm out here teaching traffic signals to think."*
+
+**— Let's build something real. Reach out. —**
+
+[![Email Me](https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishabhpandey2k24@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mewbemonk)
+
+![Visitor Count](https://komarev.com/ghpvc/?username=mewbemonk&color=00FFAA&style=flat-square&label=Profile+Views)
+
+</div>
